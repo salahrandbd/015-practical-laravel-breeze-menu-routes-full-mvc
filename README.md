@@ -1,0 +1,1 @@
+This very basic project demonstrates how to get started with  [laravel breeze](https://github.com/laravel/breeze) finishing a plan selection project. It is an implementation of the [linked video](https://www.youtube.com/watch?v=r61lkTd4m1U) by [Laravel Daily](https://www.youtube.com/@LaravelDaily). Best practices were intentionally ignored since it focuses on pure education.
